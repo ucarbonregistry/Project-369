@@ -118,8 +118,87 @@ Monitoring Period: 01 Jul 2004 - 31 Mar 2007
 
 Serial Range: Block start: IN-5-67295882-1-1-0-865      Block end: IN-5-67392361-1-1-0-865
 _________________
+Monitoring report: 01 Apr 2007 - 31 Mar 2010
 
-
-
-Monitoring report: 01 Apr 2007 - 31 Mar 2010 (426 KB)
 Issuance request state: Awaiting issuance request
+______________
+
+The Scope-1 of this entire project activity (i.e. bagasse based co-generation unit) was registered
+with Clean Development Mechanism (CDM) of UNFCCC with the Project ID 0865 and initial
+verifications were conducted under CDM only till 31 March 2007, followed by an incomplete
+submission of monitoring period till 31 March 2010. However, there was no further verification
+conducted under CDM or under any other mechanism; whereas UCR registration is being
+considered with crediting period only from 01 January 2013. Additionally, the Scope-2 of this
+project activity (i.e. bioethanol plant) is not a part of any other GHG mechanism and has never been
+applied under any such mechanisms.
+
+However, the plan is operational since the date of its commencement which signifies that the GHG
+contributions are continuous. Additionally, NSL keeps different good practices within the project
+boundary to achieve all possible sustainability.
+__________________
+UCR MP-01 ISSUANCE DATE: 11/07/2024
+
+Vintages: 2013-2022
+
+QTY: 608933 CoUs
+_______________
+Serial Number: 0001-000001-078490-UCR-CoU-IN-369-01012013-31122013
+
+Vintage Year: 2013
+
+Quantity: 78490
+_____________
+Serial Number: 0001-078491-185989-UCR-CoU-IN-369-01012014-31122014
+
+Vintage Year: 2014
+
+Quantity: 107499
+_____________
+Serial Number: 0001-185990-284760-UCR-CoU-IN-369-01012015-31122015
+
+Vintage Year: 2015
+
+Quantity: 98771
+_______________
+Serial Number: 0001-284761-368862-UCR-CoU-IN-369-01012016-31122016
+
+Vintage Year: 2016
+
+Quantity: 84102
+_________________
+Serial Number: 0001-368863-395286-UCR-CoU-IN-369-01012017-31122017
+
+Vintage Year: 2017
+
+Quantity: 26424
+________________
+Serial Number:0001-395287-420593-UCR-CoU-IN-369-01012018-31122018
+
+Vintage Year: 2018
+
+Quantity: 25307
+____________________
+Serial Number: 0001-420594-467134-UCR-CoU-IN-369-01012019-31122019
+
+Vintage Year: 2019
+
+Quantity: 46541
+______________
+Serial Number: 0001-467135-523732-UCR-CoU-IN-369-01012020-31122020
+
+Vintage Year: 2020
+
+Quantity: 56598
+________________
+Serial Number: 0001-523733-572968-UCR-CoU-IN-369-01012021-31122021
+
+Vintage Year: 2021
+
+Quantity: 49236
+_____________
+Serial Number: 0001-572969-608933-UCR-CoU-IN-369-01012022-31122022
+
+Vintage Year: 2022
+
+Quantity: 35965
+_________________
