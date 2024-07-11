@@ -1,6 +1,14 @@
 # Project-369
 Carbon Credit Generation Project by NSL Sugars Ltd. at Koppa, Karnataka.
 
+UCR Monitoring period : First Monitoring period
+
+Period : 10 years, 00 months.
+
+Start date : 01 January 2013
+
+End date : 31 December 2022
+____________________
 NSL Sugars Limited (NSL), formerly known as SCM Sugars Ltd, is one of the most efficient sugar
 companies in south India and a sugar arm of ‘NSL’ group. NSL Group entered the ‘sugar’ business
 being related to agro- commercial crop business.
