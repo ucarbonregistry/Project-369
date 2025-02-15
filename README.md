@@ -108,17 +108,18 @@ The project has been registered with UNFCCC on 08 Apr 07 and the project registr
 
 The version number of the CDM PDD was 04 dated 28/12/2006
 
-The last know CDM duration of the monitoring period considered is listed as 01/04/2007 to 31/03/2010 (both the dates included). The length of the crediting period
-for the project activity is 10 years. The important dates related to the project activity are listed below table.
+The last known CDM duration of the monitoring period considered is listed as 01/04/2007 to 31/03/2010 (both the dates included). The length of the crediting period
+for the project activity under CDM was 10 years. The important dates related to the project activity are listed below table.
 
 CDM HISTORY:
+__________
 Project Activity Start date 11-12-2002
-
+______
 Start of its Operation 30/06/2004
-
+_________
 Date of Registration at UNFCCC 08/04/2007
-
-Crediting period 01 Jul 04 - 30 Jun 14 (Fixed)
+_________
+CDM Crediting period 01 Jul 04 - 30 Jun 14 (Fixed)
 __________________
 CERs ISSUED: 96480 tCO2
 
